@@ -4,7 +4,7 @@ public class TenToTwo{
 	public static void main(String[] args){
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("请输入一个十进制数：");
+		System.out.println("璇疯緭鍏ヤ竴涓崄杩涘埗鏁帮細");
 		int number = sc.nextInt();
 		String str = "";
 	

@@ -2,7 +2,7 @@ public class ManyFor{
 	
 	public static void main(String[] args){
 		
-		//´òÓ¡¾Å¾Å³Ë·¨±í
+		//æ‰“å°ä¹ä¹ä¹˜æ³•è¡¨
 		for(int i = 1;i<10;i++){
 			for (int j = 1;j<=i;j++){
 				System.out.print(j+"*"+i+"="+i*j+"\t");
@@ -10,8 +10,8 @@ public class ManyFor{
 			System.out.println();
 		}
 		
-		//ì³²¨ÄÇÆõÊıÁĞ		1£¬1£¬2£¬3£¬5£¬8£¬13£¬21£¬34£¬55
-		//°ÙÇ®Âò°Ù¼¦
+		//æ–æ³¢é‚£å¥‘æ•°åˆ—		1ï¼Œ1ï¼Œ2ï¼Œ3ï¼Œ5ï¼Œ8ï¼Œ13ï¼Œ21ï¼Œ34ï¼Œ55
+		//ç™¾é’±ä¹°ç™¾é¸¡
 		
 	}
 }

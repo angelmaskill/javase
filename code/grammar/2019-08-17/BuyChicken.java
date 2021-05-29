@@ -6,7 +6,7 @@ public class BuyChicken{
 			for(int j = 0;j<=34;j++){
 				for(int k = 0;k<=300;k++){
 					if(((i+j+k)==100) && ((5*i+3*j+ k/3)==100) && (k%3==0)){
-						System.out.println("¹«¼¦£º"+i+"\tÄ¸¼¦£º"+j+"\tÐ¡¼¦£º"+k);
+						System.out.println("å…¬é¸¡ï¼š"+i+"\tæ¯é¸¡ï¼š"+j+"\tå°é¸¡ï¼š"+k);
 					}
 				}
 			}
